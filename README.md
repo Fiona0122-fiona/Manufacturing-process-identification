@@ -14,7 +14,7 @@ If you found this paper useful in your research, please cite:
 ```
 
 ## Installation
-This repo provides the RIConv++ source codes, which had been tested with Python 3.9.7, PyTorch 1.9.0, CUDA 11.1 on Ubuntu 20.04. Our codes are implemented based on Xu Yan's Pytorch implementation of [PointNet++(Pytorch)](https://github.com/yanx27/Pointnet_Pointnet2_pytorch) and ShaoShuai Shi's [PointNet++ cuda operations](https://github.com/sshaoshuai/Pointnet2.PyTorch).  
+This repo provides the MRIConv++ and PRIConv++ source codes, which had been tested with Python 3.9.7, PyTorch 1.9.0, CUDA 11.1 on Ubuntu 20.04. Our codes are implemented based on Xu Yan's Pytorch implementation of [PointNet++(Pytorch)](https://github.com/yanx27/Pointnet_Pointnet2_pytorch) and ShaoShuai Shi's [PointNet++ cuda operations](https://github.com/sshaoshuai/Pointnet2.PyTorch).  
 
 Install the pointnet++ cuda operation library by running the following command:
 ```
