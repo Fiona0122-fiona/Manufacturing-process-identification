@@ -1,4 +1,4 @@
-# RIConv++: Effective Rotation Invariant Convolutions for 3D Point Clouds Deep Learning
+# Manufacturing process identification from 3D point cloud models using semantic segmentation
 
 International Journal of Computer Vision, 2022
 
