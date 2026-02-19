@@ -1,14 +1,14 @@
 # Manufacturing process identification from 3D point cloud models using semantic segmentation
 
-## Dataset associated with manufacturing processes:
+## (1)Dataset associated with manufacturing processes:
 
 <img width="2495" height="913" alt="image" src="https://github.com/user-attachments/assets/16380356-bdeb-4d6c-96ae-63dbf9f8a117" />
 
-## MRIConv++ model:
+## (2)MRIConv++ model:
 
 <img width="3493" height="1586" alt="image" src="https://github.com/user-attachments/assets/e4e1e319-b565-4eb1-83fa-d749419927dd" />
 
-## PRIConv++ model:
+## (3)PRIConv++ model:
 
 <img width="3493" height="1091" alt="image" src="https://github.com/user-attachments/assets/6602418a-7022-4783-b6b3-bc568ed01d3f" />
 
