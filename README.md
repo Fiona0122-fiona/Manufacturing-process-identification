@@ -1,5 +1,18 @@
 # Manufacturing process identification from 3D point cloud models using semantic segmentation
 Paper：https://doi.org/10.1016/j.jmsy.2025.07.023
+Journal of manufacturing systems, 2025
+
+If you found this paper useful in your research, please cite:
+```
+@article{Liu2025ManufacturingPI,
+  title={Manufacturing process identification from 3D point cloud models using semantic segmentation},
+  author={Xiaofang Liu and Zhichao Wang and Shreyes N. Melkote and David W. Rosen},
+  journal={Journal of Manufacturing Systems},
+  year={2025},
+  url= {https://doi.org/10.1016/j.jmsy.2025.07.023}
+}
+```
+
 ## (1) Dataset associated with manufacturing processes:
 
 <img width="2495" height="913" alt="image" src="https://github.com/user-attachments/assets/16380356-bdeb-4d6c-96ae-63dbf9f8a117" />
@@ -13,18 +26,6 @@ Paper：https://doi.org/10.1016/j.jmsy.2025.07.023
 <img width="3493" height="1091" alt="image" src="https://github.com/user-attachments/assets/6602418a-7022-4783-b6b3-bc568ed01d3f" />
 
 
-Journal of manufacturing systems, 2025
-
-If you found this paper useful in your research, please cite:
-```
-@article{Liu2025ManufacturingPI,
-  title={Manufacturing process identification from 3D point cloud models using semantic segmentation},
-  author={Xiaofang Liu and Zhichao Wang and Shreyes N. Melkote and David W. Rosen},
-  journal={Journal of Manufacturing Systems},
-  year={2025},
-  url= {https://doi.org/10.1016/j.jmsy.2025.07.023}
-}
-```
 
 
 ## Installation
