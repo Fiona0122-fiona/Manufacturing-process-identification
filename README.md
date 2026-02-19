@@ -8,9 +8,8 @@
 
 <img width="3493" height="1586" alt="image" src="https://github.com/user-attachments/assets/e4e1e319-b565-4eb1-83fa-d749419927dd" />
 
-##
+##PRIConv++ model:
 
-PRIConv++ model:
 <img width="3493" height="1091" alt="image" src="https://github.com/user-attachments/assets/6602418a-7022-4783-b6b3-bc568ed01d3f" />
 
 ## Installation
