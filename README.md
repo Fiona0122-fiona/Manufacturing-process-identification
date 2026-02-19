@@ -48,17 +48,17 @@ If you want to process your own data, please use:
 cd data_utils
 python collect_indoor3d_data.py
 ```
-
-Processed data save in `../data/s3dis/mriconv2_3d/`. (**Note**: the `data/` folder is outside the project folder)
-Processed data save in `../data/s3dis/priconv2_3d/`. (**Note**: the `data/` folder is outside the project folder)
+```
+Processed data (for MRIConv++) save in `../data/s3dis/mriconv2_3d/`. (**Note**: the `data/` folder is outside the project folder)
+Processed data (for PRIConv++)save in `../data/s3dis/priconv2_3d/`. (**Note**: the `data/` folder is outside the project folder)
 The raw data is also provided in the folder "Raw Data".
-
+```
 Training:
 
 ```
 python3 train_semseg.py
 ```
-For testing, you can use your trained model by specifying `--log_dir` or use our **pretrained model** [18.2MB](log/sem_seg/pretrained) directly:
+For testing, you can use your trained model by specifying `--log_dir` or use our **pretrained model** (log/sem_seg/pretrained) directly:
 
 ```
 python3 test_semseg.py
