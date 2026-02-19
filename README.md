@@ -22,7 +22,6 @@ If you found this paper useful in your research, please cite:
   author={Xiaofang Liu and Zhichao Wang and Shreyes N. Melkote and David W. Rosen},
   journal={Journal of Manufacturing Systems},
   year={2025},
-  url={https://api.semanticscholar.org/CorpusID:280879364}
 }
 ```
 
