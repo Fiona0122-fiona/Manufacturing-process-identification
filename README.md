@@ -1,5 +1,6 @@
 # Manufacturing process identification from 3D point cloud models using semantic segmentation
 Paper：https://doi.org/10.1016/j.jmsy.2025.07.023
+
 Journal of manufacturing systems, 2025
 
 If you found this paper useful in your research, please cite:
