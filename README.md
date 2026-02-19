@@ -41,17 +41,15 @@ cd ../../
 
 
 ### Segmentation
-We perform semantic segmentation on mriconv2_3d and priconv2_3d respectively. mriconv2_3d and priconv2_3d are new datasets generated. 
+We perform semantic segmentation on mriconv2_3d and priconv2_3d respectively.
 
-```
-####  mriconv2_3d
-The mriconv2_3d dataset has been uploaded, including npy files and raw CAD models in SLDPRT and STL formats.
-
-```
 cd data_utils
 python collect_indoor3d_data.py
+
 ```
-Processed data will save in `../data/s3dis/stanford_indoor3d/`. (**Note**: the `data/` folder is outside the project folder)
+Processed data will save in `../data/s3dis/mriconv2_3d/`. (**Note**: the `data/` folder is outside the project folder)
+Processed data will save in `../data/s3dis/priconv2_3d/`. (**Note**: the `data/` folder is outside the project folder)
+The raw data is also provided in the folder "Raw Data".
 
 Training:
 ```
