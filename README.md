@@ -51,11 +51,15 @@ cd data_utils
 python collect_indoor3d_data.py
 ```
 
-Processed data (for MRIConv++) save in `../data/s3dis/mriconv2_3d/`. (**Note**: the `data/` folder is outside the project folder). The processed data can be download at :https://drive.google.com/file/d/1Zl6MU-Hb4J0Pdcn-pcOJd2XyILgOBbKH/view?usp=drive_link.
+Processed data (for MRIConv++) save in `../data/s3dis/mriconv2_3d/`. (**Note**: the `data/` folder is outside the project folder). 
 
-Processed data (for PRIConv++)save in `../data/s3dis/priconv2_3d/`. (**Note**: the `data/` folder is outside the project folder).The processed data can be download at: https://drive.google.com/file/d/1uC1AxsxH6wJd9_hS37D6LKMCjQNpOP_u/view?usp=sharing.
+Processed data (for PRIConv++)save in `../data/s3dis/priconv2_3d/`. (**Note**: the `data/` folder is outside the project folder).
 
-The raw data (sldprt and STL provided) are in the folder "CAD Dataset".They can be download at :https://drive.google.com/file/d/14KHYUwMFadOdoeA3JBD_vtTYruZ6uGyR/view?usp=sharing.
+The raw CAD data and processed data can be found at URL: 
+
+```
+https://hdl.handle.net/1853/80724
+```
 
 Training:
 
