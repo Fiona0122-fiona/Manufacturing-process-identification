@@ -55,7 +55,7 @@ Processed data (for MRIConv++) save in `../data/s3dis/mriconv2_3d/`. (**Note**: 
 
 Processed data (for PRIConv++)save in `../data/s3dis/priconv2_3d/`. (**Note**: the `data/` folder is outside the project folder).
 
-If you found the dataset useful in your research, please cite:
+If you found the dataset useful in your research, please cite:(doi will provide later)
 
 The raw CAD data and processed data can be found at URL: 
 
