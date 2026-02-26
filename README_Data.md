@@ -7,4 +7,4 @@ Despite recent developments in deep learning, there remains a scarcity of 3D CAD
 <img width="1702" height="647" alt="image" src="https://github.com/user-attachments/assets/3be272d5-4dfc-4de4-9c02-2c99226aa6be" />
 <img width="1198" height="592" alt="image" src="https://github.com/user-attachments/assets/64a14666-0f69-4450-9091-e70344eb5d78" />
 
-If you use our data, please cite our data using the link: https://hdl.handle.net/1853/80724
+If you use our data, please cite our data using the link: [https://hdl.handle.net/1853/80724](https://doi.org/10.35090/gatech/80724)
