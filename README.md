@@ -3,6 +3,10 @@ Paper：https://doi.org/10.1016/j.jmsy.2025.07.023
 
 Journal of manufacturing systems, 2025
 
+This repository contains MRIConv++ and PRIConv++, two point-cloud semantic segmentation models that label every point of a 3D part model with the manufacturing process that produces it: casting, turning or milling.
+
+The dataset has 24,000 parametric CAD models across eight part categories, sampled at 2,048 points per model.
+
 If you found this paper useful in your research, please cite:
 ```
 @article{Liu2025ManufacturingPI,
